@@ -19,4 +19,5 @@ public class Order {
     private Long id;
     private Long productId;
     private Integer quantity;
+    private String status = "PENDING";
 }

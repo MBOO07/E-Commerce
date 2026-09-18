@@ -1,0 +1,14 @@
+com\example\notification_service\dto\OrderNotificationDTO.class
+com\example\notification_service\dto\PaymentNotificationDTO$PaymentNotificationDTOBuilder.class
+com\example\notification_service\entity\NotificationLog.class
+com\example\notification_service\NotificationServiceApplication.class
+com\example\notification_service\entity\NotificationLog$NotificationLogBuilder.class
+com\example\notification_service\service\EmailService.class
+com\example\notification_service\dto\OrderNotificationDTO$OrderNotificationDTOBuilder.class
+com\example\notification_service\dto\PaymentNotificationDTO.class
+com\example\notification_service\dto\EmailRequestDTO$EmailRequestDTOBuilder.class
+com\example\notification_service\controller\NotificationController.class
+com\example\notification_service\repository\NotificationRepository.class
+com\example\notification_service\consumer\KafkaNotificationConsumer.class
+com\example\notification_service\dto\EmailRequestDTO.class
+com\example\notification_service\exception\GlobalExceptionHandler.class

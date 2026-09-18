@@ -18,4 +18,5 @@ public class OrderResponseDTO {
 
     private String productName;
     private double productprice;
+    private String status;
 }

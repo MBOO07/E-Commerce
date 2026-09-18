@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
         <module name="api-gateway-service" />
-        <module name="order-service" />
       </profile>
       <profile name="Annotation profile for product-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -17,9 +16,9 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
         </processorPath>
         <module name="product-service" />
+        <module name="order-service" />
       </profile>
     </annotationProcessing>
   </component>

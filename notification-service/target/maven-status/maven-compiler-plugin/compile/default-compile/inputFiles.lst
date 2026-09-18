@@ -1,0 +1,10 @@
+C:\Projects\notification-service\src\main\java\com\example\notification_service\consumer\KafkaNotificationConsumer.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\controller\NotificationController.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\dto\EmailRequestDTO.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\dto\OrderNotificationDTO.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\dto\PaymentNotificationDTO.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\entity\NotificationLog.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\exception\GlobalExceptionHandler.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\NotificationServiceApplication.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\repository\NotificationRepository.java
+C:\Projects\notification-service\src\main\java\com\example\notification_service\service\EmailService.java
